@@ -2,4 +2,6 @@
 
 Mi primer repositorio en GitHub
 
-I like animals; drama movie interest
+i love  futbol, amo leer
+
+mi ultima linea de  mi repositorio
